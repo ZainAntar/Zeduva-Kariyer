@@ -51,6 +51,5 @@ hedeflenmiştir.
 Projeyi yerel ortamda çalıştırmak için:
 
 npm install
-
 npm run dev
 
