@@ -120,7 +120,7 @@ export function Sidebar({ filters, setFilters, isOpen, onClose, onOpenQuiz, mode
             <div className="px-5 py-4 border-t border-border flex-shrink-0 space-y-3">
                 <button
                     onClick={() => setFilters({ type: null, selectedSkills: [], selectedMotivations: [], dreamText: '' })}
-                    className="w-full py-2 text-[11.5px] font-semibold tracking-wide uppercase text-ink-3 border border-border rounded-lg hover:border-red-300 hover:text-red-500 hover:bg-red-50 transition-all"
+                    className="w-full py-1.5 text-[10.5px] font-semibold tracking-wide uppercase text-ink-3 border border-border rounded-lg hover:border-red-300 hover:text-red-500 hover:bg-red-50 transition-all"
                 >
                     Tercihleri Sıfırla
                 </button>
@@ -130,16 +130,14 @@ export function Sidebar({ filters, setFilters, isOpen, onClose, onOpenQuiz, mode
                         href="https://github.com/ZainAntar"
                         target="_blank"
                         rel="noreferrer"
-                        className="inline-flex items-center gap-2.5 text-[11.5px] text-ink-3 hover:text-primary transition-colors group"
+                        className="w-full inline-flex items-center justify-center gap-2 text-[11px] text-ink-2 hover:text-primary transition-colors group"
                     >
                         <img
                             src={profileImageSrc}
                             alt="zaina"
-                            className="w-7 h-7 object-cover border border-border rounded flex-shrink-0"
+                            className="w-7 h-7 object-contain flex-shrink-0"
                         />
-                        <span className="leading-tight">
-                            <span className="underline underline-offset-2">illimite</span> tarafından yapıldı
-                        </span>
+                        <span className="leading-tight underline underline-offset-2 font-semibold">illimite</span>
                     </a>
                 )}
             </div>
