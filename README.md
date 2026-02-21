@@ -42,7 +42,8 @@ hedeflenmiştir.
 
 - React  
 - TypeScript  
-- Vite  
+- Vite
+  
 
 ---
 
