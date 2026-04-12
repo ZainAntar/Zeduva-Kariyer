@@ -70,7 +70,7 @@ Bu depo için uygun lisans bilgilerini ekleyin (ör. MIT).
 
 ## İletişim
 
-Sorular veya geri bildirim için repository sahibi ile iletişime geçin.
+Email: Zain Antar antar.zain1@gmail.com
 
 ---
 
