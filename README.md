@@ -2,7 +2,7 @@
 
 # Zeduva Kariyer Rehberi — Geliştirilmiş Versiyon (Z 2.0)
 
-Bu depo, öğrencilerin kariyer tercihlerini daha bilinçli yapmalarına yardımcı olmak üzere geliştirilmiş "Zeduva Kariyer Rehberi" uygulamasının iyileştirilmiş versiyonunu içerir. Proje, kullanıcı deneyimi, arayüz ve teknik yapı açısından geliştirilmiş bir başlangıç şablonu sunar.
+Bu proje, öğrencilerin kariyer tercihlerini daha bilinçli yapmalarına yardımcı olmak üzere geliştirilmiş "Zeduva Kariyer Rehberi" uygulamasının iyileştirilmiş versiyonunu içerir. Proje, kullanıcı deneyimi, arayüz ve teknik yapı açısından geliştirilmiş bir başlangıç şablonu sunar.
 
 ## 🎯 Amaç
 
@@ -10,7 +10,7 @@ Bu depo, öğrencilerin kariyer tercihlerini daha bilinçli yapmalarına yardım
 - Kariyer seçeneklerini daha bilinçli değerlendirmelerini desteklemek
 - Karar sürecini sade, yönlendirici bir akışla sunmak
 
-## ✨ Öne Çıkan Özellikler
+## ✨ Özellikler
 
 - Kullanıcı dostu ve yönlendirici arayüz
 - Modüler komponent mimarisi
@@ -47,26 +47,11 @@ npm run build
 npm run preview
 ```
 
-## Proje Yapısı (Özet)
-
-- src/ — Uygulama kaynak kodu (bileşenler, stiller, varlıklar)
-- public/ — Statik dosyalar
-- tsconfig.*.json — TypeScript yapılandırmaları
-- eslint.config.js — ESLint kuralları ve eklentiler
-
 ## Yapılan Geliştirmeler
 
 - Arayüz ve kullanıcı akışı sadeleştirildi
 - Komponent yapısı ve kod okunabilirliği geliştirildi
 - Modüler klasör yapısı ile bakım kolaylaştırıldı
-
-## Katkıda Bulunma
-
-Katkılar memnuniyetle karşılanır. Yeni özellik, hata düzeltme veya belge önerileri için lütfen bir issue açın ve ardından bir pull request gönderin.
-
-## Lisans
-
-Bu depo için uygun lisans bilgilerini ekleyin (ör. MIT).
 
 ## İletişim
 
