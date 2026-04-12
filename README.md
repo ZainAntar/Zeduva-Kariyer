@@ -58,5 +58,3 @@ npm run preview
 Email: Zain Antar antar.zain1@gmail.com
 
 ---
-
-_README, çakışma işaretleri kaldırılarak birleştirildi. Banner dosyası kökte `Z-Repo-Banner.png` olarak bulunmalıdır._
